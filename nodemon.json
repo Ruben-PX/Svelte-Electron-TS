@@ -1,0 +1,5 @@
+{
+  "watch": ["src/backend"],
+  "exec": "npm run start:electron:run",
+  "ext": "js, json, ts, proto, css, png, jpeg, jpg, ico"
+}
