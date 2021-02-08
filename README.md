@@ -1,5 +1,5 @@
 <p align='center'>
-<h3 align='center'>ABOUT</h3>
+<h3 align='center'><b>ABOUT</b></h3>
   <p align='center'>
     A minimal project template for building Electron apps with Svelte.
   </p>
