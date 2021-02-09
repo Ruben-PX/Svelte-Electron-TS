@@ -4,7 +4,7 @@
     A minimal project template for building Electron apps with Svelte.
   </p>
   <p align='center'>
-    This project includes IPC interaction. (IPCRender & IPCMain)
+    This project has NoteIntegration enabled
   </p>
 </p>
 
